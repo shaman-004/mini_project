@@ -1,3 +1,5 @@
+#Mini Project
+
 #Comment Analyzer Using Machine Learning 
 The Comment Analyzer is a tool designed to analyze and evaluate the sentiment of comments retrieved from various sources, with a primary focus on comments from YouTube. The aim is to provide insights into the sentiment and emotional tone expressed in comments, enabling users to better understand the reception of their content.
 
